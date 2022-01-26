@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/mborges-pivotal/pcf-ers-demo1.svg?branch=master)](https://travis-ci.org/mborges-pivotal/pcf-ers-demo1)
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/d5348690-bc2c-42a7-8246-e66d17deea51.svg?orgId=521549019486)](https://app.soluble.cloud/repos/details/github.com/brianbyers/pcf-ers-demo?orgId=521549019486)  
 [ ![Download](https://api.bintray.com/packages/mborges-pivotal/generic/pcf-ers-demo1/images/download.svg) ](https://bintray.com/mborges-pivotal/generic/pcf-ers-demo1/_latestVersion)
 
 # PCF Elastic Runtime Service (ERS) Base Demo
